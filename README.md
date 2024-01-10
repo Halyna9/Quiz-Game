@@ -1,5 +1,5 @@
 # Quiz Application
-This Python program conducts a simple quiz based on the provided questions and checks the user's knowledge by asking multiple-choice questions. It utilizes the question_model, data, and quiz_brain modules to execute the quiz functionality.
+This Python program conducts a simple quiz based on the provided questions and checks the user's knowledge by asking True/False-choice questions. It utilizes the question_model, data, and quiz_brain modules to execute the quiz functionality.
 
 ## How it Works
 The program imports necessary modules: Question from question_model, question_data from data, and QuizBrain from quiz_brain.
