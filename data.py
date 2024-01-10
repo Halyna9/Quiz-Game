@@ -1,0 +1,39 @@
+question_data = [
+    {"type": "boolean",
+     "difficulty": "easy",
+     "category": "General Knowledge",
+     "question": "Romanian belongs to the Romance language family, "
+                 "shared with French, Spanish, Portuguese and Italian. ",
+     "correct_answer": "True",
+     "incorrect_answers": ["False"]},
+    {"type": "boolean", "difficulty": "easy", "category": "General Knowledge",
+     "question": "Nutella is produced by the German company Ferrero.",
+     "correct_answer": "False", "incorrect_answers": ["True"]},
+    {"type": "boolean", "difficulty": "easy", "category": "General Knowledge",
+     "question": "A pasodoble is a type of Italian pasta sauce.",
+     "correct_answer": "False", "incorrect_answers": ["True"]},
+    {"type": "boolean", "difficulty": "easy", "category": "General Knowledge",
+     "question": "One of Donald Trump&#039;s 2016 Presidential "
+                 "Campaign promises was to build a border wall between the United States and Mexico.",
+     "correct_answer": "True", "incorrect_answers": ["False"]},
+    {"type": "boolean", "difficulty": "easy", "category": "General Knowledge",
+     "question": "Gumbo is a stew that originated in Louisiana.",
+     "correct_answer": "True", "incorrect_answers": ["False"]},
+    {"type": "boolean", "difficulty": "easy", "category": "General Knowledge",
+     "question": "The color orange is named after the fruit.",
+     "correct_answer": "True", "incorrect_answers": ["False"]},
+    {"type": "boolean", "difficulty": "easy", "category": "General Knowledge",
+     "question": "The Lego Group was founded in 1932.", "correct_answer": "True",
+     "incorrect_answers": ["False"]},
+    {"type": "boolean", "difficulty": "easy", "category": "General Knowledge",
+     "question": "Bulls are attracted to the color red.", "correct_answer": "False",
+     "incorrect_answers": ["True"]},
+    {"type": "boolean", "difficulty": "easy", "category": "General Knowledge",
+     "question": "It is automatically considered entrapment in the United States "
+                 "if the police sell you illegal substances without revealing themselves.",
+     "correct_answer": "False", "incorrect_answers": ["True"]},
+    {"type": "boolean", "difficulty": "easy", "category": "General Knowledge",
+     "question": "In 2010, Twitter and the United States Library of Congress partnered together "
+                 "to archive every tweet by American citizens.",
+     "correct_answer": "True", "incorrect_answers": ["False"]}
+]
